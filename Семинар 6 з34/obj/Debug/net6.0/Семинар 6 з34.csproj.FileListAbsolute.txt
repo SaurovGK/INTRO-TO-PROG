@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\bin\Debug\net6.0\Семинар 6 з34.exe
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\bin\Debug\net6.0\Семинар 6 з34.deps.json
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\bin\Debug\net6.0\Семинар 6 з34.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\bin\Debug\net6.0\Семинар 6 з34.dll
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\bin\Debug\net6.0\Семинар 6 з34.pdb
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\obj\Debug\net6.0\Семинар 6 з34.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\obj\Debug\net6.0\Семинар 6 з34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\obj\Debug\net6.0\Семинар 6 з34.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\obj\Debug\net6.0\Семинар 6 з34.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\obj\Debug\net6.0\Семинар 6 з34.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\obj\Debug\net6.0\Семинар 6 з34.dll
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\obj\Debug\net6.0\refint\Семинар 6 з34.dll
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\obj\Debug\net6.0\Семинар 6 з34.pdb
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\obj\Debug\net6.0\Семинар 6 з34.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 6 з34\obj\Debug\net6.0\ref\Семинар 6 з34.dll
