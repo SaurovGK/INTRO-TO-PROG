@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\bin\Debug\net6.0\Семинар 9 з 68.exe
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\bin\Debug\net6.0\Семинар 9 з 68.deps.json
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\bin\Debug\net6.0\Семинар 9 з 68.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\bin\Debug\net6.0\Семинар 9 з 68.dll
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\bin\Debug\net6.0\Семинар 9 з 68.pdb
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\obj\Debug\net6.0\Семинар 9 з 68.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\obj\Debug\net6.0\Семинар 9 з 68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\obj\Debug\net6.0\Семинар 9 з 68.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\obj\Debug\net6.0\Семинар 9 з 68.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\obj\Debug\net6.0\Семинар 9 з 68.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\obj\Debug\net6.0\Семинар 9 з 68.dll
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\obj\Debug\net6.0\refint\Семинар 9 з 68.dll
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\obj\Debug\net6.0\Семинар 9 з 68.pdb
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\obj\Debug\net6.0\Семинар 9 з 68.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 9 з 68\obj\Debug\net6.0\ref\Семинар 9 з 68.dll
