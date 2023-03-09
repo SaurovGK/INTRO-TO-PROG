@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\bin\Debug\net6.0\Семинар 8 дз 54.exe
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\bin\Debug\net6.0\Семинар 8 дз 54.deps.json
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\bin\Debug\net6.0\Семинар 8 дз 54.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\bin\Debug\net6.0\Семинар 8 дз 54.dll
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\bin\Debug\net6.0\Семинар 8 дз 54.pdb
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\obj\Debug\net6.0\Семинар 8 дз 54.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\obj\Debug\net6.0\Семинар 8 дз 54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\obj\Debug\net6.0\Семинар 8 дз 54.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\obj\Debug\net6.0\Семинар 8 дз 54.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\obj\Debug\net6.0\Семинар 8 дз 54.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\obj\Debug\net6.0\Семинар 8 дз 54.dll
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\obj\Debug\net6.0\refint\Семинар 8 дз 54.dll
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\obj\Debug\net6.0\Семинар 8 дз 54.pdb
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\obj\Debug\net6.0\Семинар 8 дз 54.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\1С Задача 2\INTRO-TO-PROG\Семинар 8 дз 54\obj\Debug\net6.0\ref\Семинар 8 дз 54.dll
